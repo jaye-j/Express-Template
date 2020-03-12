@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdenny/Blog_1.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abdenny/Blog_1/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/abdenny/Blog_1#readme",
+  "homepage": "",
   "dependencies": {
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
