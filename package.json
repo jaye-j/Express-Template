@@ -12,9 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url":
-  },
   "homepage": "",
   "dependencies": {
     "bluebird": "^3.7.2",
